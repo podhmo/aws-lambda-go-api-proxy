@@ -1,7 +1,5 @@
 module github.com/awslabs/aws-lambda-go-api-proxy
 
-replace github.com/podhmo/aws-lambda-go-api-proxy => ./
-
 go 1.17
 
 require (
